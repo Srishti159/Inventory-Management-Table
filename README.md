@@ -1,4 +1,4 @@
-# Inventory Management System 🛒
+# Inventory Management Table 🛒
 
 A modern and user-friendly application for managing inventory, crafted with React.js and Tailwind CSS. This system includes light and dark mode options, dynamic table features, tooltips, and visually appealing gradient designs.
 
@@ -26,16 +26,17 @@ A modern and user-friendly application for managing inventory, crafted with Reac
 ## ⚙ Installation
 
 1. *Clone the repository*:
-   bash
-   git clone https://github.com/Srishti139/inventory-management-system.git
+   ```bash
+   git clone https://github.com/Srishti159/inventory-management-table.git
 2. **Navigate to the project directory**:
-    bash
-    cd inventory-management-system
+    ```bash
+    cd inventory-management-table
 3.  *Install dependencies*:
-    bash
+    ```bash
     npm install
-3.**Start the development server:
-bash
-npm start
-Open in your browser:
-http://localhost:3000
+4.  **Start the development server:
+    ```bash
+    npm start
+5.  **Open in your browser**:
+    ```bash
+    http://localhost:3000
